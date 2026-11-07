@@ -1,0 +1,10 @@
+<color=green>開</color>
+<color=#07A2FF>閉</color>
+<color=orange>方 動</color>
+<color=red>鎖 定</color>
+<color=red>故 障</color>
+<color=red>拒 訪</color>
+<color=green>許 訪</color>
+<color=#07A2FF>需 門禁匙</color>
+<color=orange>請 過</color>
+<color=orange>方 閉</color>
