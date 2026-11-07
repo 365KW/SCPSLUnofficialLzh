@@ -2,29 +2,33 @@
 
 戲者文言譯，為眾之所纂。<br>
 
-現之文有多為俗話，按源譯之。<br>
-
-> 若汝須譯之新語，以洋文源增刪作纂改。<br>
-
 ## 載法
 
-以 `git clone` 取庫內文，揀擇 `lzh` 案夾至遊戲案夾 `translation` 之夾裡。<br>
+得案文，而揀擇 `lzh` 至戲案夾 `Translation` 內。<br>
 
-取以行令：<br>
+下傳譯案：<br>
 ```shell
-git clone https://github.com/365KW/SCP_SL_LZH
+git clone https://github.com/365KW/SCPSL-unofficialLZH.git
 ```
 
 ## 協
 
-蓋文言難譯，置協者通則：<br>
+蓋文言難譯，置通則：<br>
 
-- [協庫法](https://docs.github.com/zh/get-started/exploring-projects-on-github/contributing-to-a-project)
+- [法式](https://docs.github.com/zh/get-started/exploring-projects-on-github/contributing-to-a-project)
 - [章法通則](https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8:%E7%AB%A0%E6%B3%95)
 
-不得交俗字章文，不得令機械人譯增交譯本。<br>
+不納俗字章文，不納機械人譯。<br>
 
-> 君若欲參，方使復刻庫之器具得此庫，洋謂之「FORK」。<br>
-> 乃新立譯枝，使優選章文之交入主譯枝，再起合併請求。<br>
+> 若欲參，「叉」得此庫先<br>
+> 然立譯枝，使優選呈入主譯枝，起合併書而參。<br>
 
-有此間[凡例](https://github.com/365KW/SCP_UNOFFICIAL_LZH/tree/main/%E8%AD%AF%E5%BA%AB%E4%BB%8B%E9%9D%A2%E6%96%87%E6%9B%B8)，乃必觀也。
+既訂文，呈交應以【修】【補】作頭。
+
+式如下者。<br>
+- 「修」者，訂正也。改謬而正文。
+- 「補」者，補正也。增文而訂正。
+
+```
+【修】訂Items.txt謬
+```
