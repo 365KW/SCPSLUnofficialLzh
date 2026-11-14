@@ -71,14 +71,14 @@ Northwood Game Design Supervisor
 Northwood Level Design Supervisor
 Northwood Safety and Compliance Supervisor
 Northwood System Administration Supervisor
-Northwood Web Development Supervisor 
+Northwood Web Development Supervisor
 Northwood Web Development Manager
-Northwood Content Supervisor 
+Northwood Content Supervisor
 Northwood Content Manager
 Northwood Patreon Supervisor
 Northwood Patreon Manager
-Northwood Social Media Supervisor 
-Northwood Social Media Manager 
+Northwood Social Media Supervisor
+Northwood Social Media Manager
 Northwood Translation Supervisor
 Northwood Forum Moderation Supervisor
 Northwood Level Design Manager

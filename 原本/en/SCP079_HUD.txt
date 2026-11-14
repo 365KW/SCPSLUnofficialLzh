@@ -55,7 +55,7 @@ ZONE-WIDE BLACKOUT ([cost])
 $ZONE-WIDE BLACKOUT$ now available - next to zone labels on the $Facility Map$.
 ZONE-WIDE BLACKOUT COOLDOWN
 BLACKOUT ALREADY ACTIVE
-BLACKOUT UNAVAILABLE FOR THIS ZONE
+ABILITY UNAVAILABLE FOR THIS ZONE
 TOTAL LIFEFORMS
 TARGETS
 SCP SUBJECTS
@@ -89,3 +89,7 @@ SELECT TEAMS TO DETECT
 Breach Scanner detects remaining targets that stay within the same area for an extended period of time.
 Select at least one filter to continue!
 $DOOR LOCK$ now available - press $[key]$ on a specific door to temporarily lock it.
+START CALL
+JOIN CALL
+ANSWER PHONE
+LEAVE CALL

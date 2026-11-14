@@ -1,14 +1,14 @@
-0~Janitor Keycard
-1~Scientist Keycard
-2~Research Supervisor Keycard
-3~Zone Manager Keycard
-4~Guard Keycard
+0~Janitor Keycard~~Opens SCP-914
+1~Scientist Keycard~~Opens SCP Containment Chambers
+2~Research Supervisor Keycard~~Opens SCP Item Pedestals and Checkpoints
+3~Zone Manager Keycard~~Opens Checkpoints and SCP-914
+4~Guard Keycard~~General Low Tier Access
 5~MTF Private Keycard
 6~Containment Engineer Keycard
-7~MTF Operative Keycard
-8~MTF Captain Keycard
-9~Facility Manager Keycard
-10~Chaos Insurgency Access Device
+7~MTF Operative Keycard~~General Access
+8~MTF Captain Keycard~~General and Experimental Weapon Access
+9~Facility Manager Keycard~~Opens SCP Weapon Lockers and Warhead Panel
+10~Chaos Insurgency Access Device~~General and Experimental Weapon Access
 11~O5-level Keycard
 12~Radio~Allows communication over long distances between devices. Range can be adjusted.
 13~COM-15
@@ -48,7 +48,7 @@
 52~FR-MG-0
 53~A7
 54~Lantern~A classic oil lantern, inscribed with the name "Daniel".
-55~SCP-1344~A set of modified goggles that lets you perceive the positions of other players through walls. Once worn, they must never be removed!~Eye-Catching Goggles
+55~SCP-1344~A set of modified goggles that lets you perceive the positions of actively moving players through walls. Once worn, they must never be removed!~Eye-Catching Goggles
 56~Snowball
 57~Coal
 58~Coal?

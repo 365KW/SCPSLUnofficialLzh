@@ -28,3 +28,4 @@ Pink Flamingos
 Zombie Flamingos
 Blue Flamingos
 Green Flamingos
+Polymorphic Humanoid
