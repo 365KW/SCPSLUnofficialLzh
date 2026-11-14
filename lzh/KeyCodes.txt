@@ -1,0 +1,19 @@
+未得伺服器置設
+鍵未設
+上矢
+下矢
+左矢
+右矢
+左Shift
+右Shift
+左Ctrl
+右Ctrl
+左Alt
+右Alt
+Tab
+空白鍵
+Enter
+左鍵
+右鍵
+中鍵
+滑鼠鍵 {0}
