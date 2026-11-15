@@ -1,12 +1,12 @@
 # SCP: SL 文言譯（未具）
 
-戲者文言譯，為眾之所纂。<br>
+社羣制文言譯本，未具亦未止。
 
 ## 載
 
-得案文，而揀擇 `lzh` 至戲案夾 `Translation` 內。<br>
+取庫案，揀 `lzh` 至戲之案夾 `Translations`。<br>
 
-下傳譯案：<br>
+下傳：<br>
 ```shell
 git clone https://github.com/365KW/SCPSL-unofficialLZH.git
 ```
@@ -20,16 +20,24 @@ git clone https://github.com/365KW/SCPSL-unofficialLZH.git
 
 俗字、機譯皆不納。<br>
 
-> 欲參，先「叉」此庫。<br>
+> 協，須「叉」此庫。<br>
 > 訂而提交，起合併書。<br>
 
-呈交應以【修】【補】作頭。
+呈交須以【修】【補】作頭。
 
-式如下者。<br>
+式如下：<br>
 - 「修」者，訂正也。改謬而正文。
 - 「補」者，補正也。增文而訂正。
 
-凡例:<br>
+凡例：<br>
 ```
 【修】訂Items.txt謬
 ```
+
+## 許可
+
+據 北木 (Northwood Studio) 之說，本庫採 [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode.txt) 許可。
+
+文原著均存 原本之manifest.json ，取從 北木 發行案章。
+
+社羣性質，非 北木 所指。上游存於 https://translate.scpslgame.com/ 。
