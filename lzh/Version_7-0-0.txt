@@ -1,0 +1,5 @@
+君亡矣。
+擊 {KEYBINDING_INTERACTION} 置<color=yellow>兵器置設板</color>。
+擊 {KEYBINDING_INTERACTION} 拾<color=yellow>兵器置設板</color>。
+該<color=yellow>工作站</color>以用於<color=yellow>兵器置設板</color>。
+君須以<color=yellow>兵器置設板</color>啓該<color=yellow>工作站</color>。
