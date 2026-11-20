@@ -8,7 +8,7 @@
 
 下傳：<br>
 ```shell
-git clone https://github.com/365KW/SCPSL-unofficialLZH.git
+git clone https://github.com/365KW/SCPSLUnofficialLZH.git
 ```
 
 ## 協
