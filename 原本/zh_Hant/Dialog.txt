@@ -1,23 +1,23 @@
-Use [CameraInputKey] to look around.
-Use [MoveForward][MoveLeft][MoveBackward][MoveRight] to move.
-Use [SprintKey] while moving to sprint.
-Use [InteractKey] to interact with doors and objects.
-Use [ProximityDeviceKey] to communicate with nearby players.
-Use [TeamDeviceKey] to communicate with your team.
-Press [RoleInfoScreenKey] for more information about your role.
-Press [ATTACKKEY] to ATTACK.\nUse [ReviveKey] on corpses to REVIVE fallen humans.
-Press [ATTACKKEY] to ATTACK.\nUse [ConsumeKey] on corpses to CONSUME fallen humans.
-Use [079InteractKey] to interact with the facility.\nPress [079PingKey] to ping places of interest to your team.\nPress [079MapKey] to open a map of the facility.
-Using your abilities comes at the cost of AUXILIARY POWER (AP), which regenerates automatically.
-You are rewarded with EXPERIENCE (EXP) when you assist your team with eliminations. When you gain enough EXP, your ACCESS TIER will be upgraded, unlocking new abilities.
-While DOCILE, use [StopCryKey] to lean on walls and silence your cries.\nWhen observed, hold [RageKey] to trigger RAGE.
-Press [AttackKey] to capture humans, sending them to the Pocket Dimension.
-You can walk through doors and windows without needing to open them.
-Your abilities rely on VIGOR, a form of stamina that regenerates when you move around or successfully attack enemies.
-You are extremely fast, but cannot move while observed until humans blink.\nWhile unobserved, press [AttackKey] to ATTACK.\nWhile observed, hold and release [TeleportKey] to BLINK, eliminating any human you come into contact with.
-Your vision is heavily limited. You can only see humans when they are nearby or making noise.\nPress [AttackKey] to ATTACK humans.\nUse [MimicryMenuKey] to replicate sounds and deceive humans.
-AMNESTIC CLOUD afflicts you with AMNESIA, affecting your vision and making SCP-939 appear invisible to you until one of you attacks the other. Keep an eye out for sudden changes in your vision!
-Escaping the POCKET DIMENSION will leave you TRAUMATIZED, making it easier for SCP-106 to track and kill you.
-SCP-173 cannot move while observed, but it can teleport every time you blink. Keep your distance and don’t let it leave your sight!
-SCP-079 can cause TESLA GATES to fire prematurely. If the nearest camera emits a blue light, proceed with caution.
-SCP-049’s initial attack inflicts CARDIAC ARREST, which is eventually lethal unless treated with medical items such as ADRENALINE or SCP-500. While afflicted, a second attack from SCP-049 is instantly lethal.
+使用 [CameraInputKey] 來環顧四周
+使用 [MoveForward][MoveLeft][MoveBackward][MoveRight] 進行移動
+在移動時使用 [SprintKey] 進行衝刺
+使用 [InteractKey] 與門和物體互動
+使用 [ProximityDeviceKey] 與附近的玩家交流
+使用 [TeamDeviceKey] 來與您的陣營交流
+按下 [RoleInfoScreenKey] 查看更多有關您當前角色的資訊
+按下 [ATTACKKEY] 進行攻擊\n對屍體使用 [ReviveKey] 來復甦死亡的人類
+按下 [ATTACKKEY] 進行攻擊\n對屍體使用 [ConsumeKey] 來啃食死亡的人類
+使用 [079InteractKey] 來與設施互動\n按下 [079PingKey] 來為您的陣營標記值得關注地點\n按下 [079MapKey] 開啟設施地圖
+使用您的能力時會消耗消耗備用電力 (AP) ，備用電力可自動恢復
+當您協助您的團隊消滅敵人時，您會獲得經驗值 (EXP) 。當您獲取足夠的經驗值後，您的訪問等級將會提升，並解鎖新的能力
+在溫順狀態下，使用 [StopCryKey] 來倚靠在牆壁上並降低您的哭聲\n當被注視時，按住 [RageKey] 觸發狂怒狀態
+按下 [AttackKey] 捕獲人類，將他們送至口袋次元
+您可以直接穿過門和窗戶，無需將它們打開
+您的能力依靠於精力，這是一種耐力值，會在您四處移動或成功攻擊敵人時恢復
+您移速極快，但在被注視時無法移動，直到人類眨眼為止\n在未被注視時，按下 [AttackKey] 進行攻擊\n在被注視時，按住並鬆開 [TeleportKey] 來進行眨眼，擊殺與您接觸的任何人類
+您的視野極度有限，當人類在附近或發出聲音時，您才能看到他們\n按下 [AttackKey] 攻擊人類\n使用 [MimicryMenuKey] 來模仿聲音並欺騙人類
+遺忘氣團會使您受到失憶效果，影響您的視野，並使939在您的眼中隱形，直到你們當中的一方攻擊到對方為止。留意您的視野是否突然發生變化！
+逃離口袋次元會使您受到創傷效果，使得SCP-106更容易追蹤並擊殺您
+SCP-173在被注視時無法移動，但它可以在您每次眨眼時進行瞬移。保持您的距離並且不要讓它離開您的視線！
+SCP-079可以使特斯拉電網提早放電。如果最近的攝影頭發出了藍光，請謹慎通行。
+SCP-049的首次攻擊會施加心臟驟停效果，若不使用腎上腺素或SCP-500等醫療物品進行治療，最終將導致死亡。處於該狀態期間，SCP-049的第二次攻擊可立即致命

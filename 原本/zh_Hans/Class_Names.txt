@@ -1,31 +1,31 @@
 SCP-173
-Class-D Personnel
-Spectator
+D级人员
+观察者
 SCP-106
-Nine-Tailed Fox Specialist
+九尾狐 收容专家
 SCP-049
-Scientist
+科学家
 SCP-079
-Chaos Insurgency Conscript
+混沌分裂者 征召兵
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Sergeant
-Nine-Tailed Fox Captain
-Nine-Tailed Fox Private
-Tutorial
-Facility Guard
+九尾狐 中士
+九尾狐 指挥官
+九尾狐 列兵
+教程角色
+设施警卫
 SCP-939
 -
-Chaos Insurgency Rifleman
-Chaos Insurgency Marauder
-Chaos Insurgency Repressor
-Overwatch
-Filmmaker
+混沌分裂者 步枪手
+混沌分裂者 掠夺者
+混沌分裂者 压制者
+监管模式
+导演模式
 SCP-3114
-Destroyed
+断链玩家
 SCP-1507
-SCP-1507-Alpha
+SCP-1507-阿尔法
 SCP-1507-049
-Nine-Tailed Flamingo
-Chaos Insurgency Flamingo
+九尾狐 火烈鸟
+混沌分裂者 火烈鸟
 SCP-953

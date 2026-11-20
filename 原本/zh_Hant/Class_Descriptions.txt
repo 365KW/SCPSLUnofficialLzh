@@ -1,31 +1,31 @@
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nHold and release your aim key while being observed to blink.\n Blink onto humans to kill them.\nWhile unobserved, left click on nearby humans to kill them.</color>
-Escape the facility.\nCooperate with the <color=#008F1e>Chaos Insurgency.</color>\nAvoid other teams.
-You will respawn soon.
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nYou can walk through doors.\nLeft click to attack and pull humans into your dimension.\nPress Shift to sink into the floor and regenerate your shield.</color>
-Take back the facility from hostile forces.\nWork together with <color=#5B6370>Facility Guards</color> and other <color=#0096FF>MTF operatives</color>.
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to attack humans, causing death in two hits.\nInteract with a fresh corpse to resurrect them as an ally.</color>
-Escape the facility.\nCooperate with  <color=#5B6370>Facility Guards</color> and <color=#0096FF>MTF operatives.</color>\nAvoid other teams.
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
-Capture the facility and eliminate <color=#0096FF>Foundation personnel</color>.\nWork together with other <color=#008F1E>Chaos Insurgents</color>.
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to attack humans.</color>
-Take back the facility from hostile forces.\nWork together with <color=#5B6370>Facility Guards</color> and other <color=#0096FF>MTF operatives</color>.
-Take back the facility from hostile forces.\nWork together with <color=#5B6370>Facility Guards</color> and other <color=#0096FF>MTF operatives</color>.
-Take back the facility from hostile forces.\nWork together with <color=#5B6370>Facility Guards</color> and other <color=#0096FF>MTF operatives</color>.
-Follow the tasks to complete your objective.
-Take back the facility from hostile forces.\nWork together with <color=#0096FF>MTF operatives</color> and other <color=#5B6370>Facility Guards</color>.
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
-Capture the facility and eliminate <color=#0096FF>Foundation personnel</color>.\nWork together with other <color=#008F1E>Chaos Insurgents</color>.
-Capture the facility and eliminate <color=#0096FF>Foundation personnel</color>.\nWork together with other <color=#008F1E>Chaos Insurgents</color>.
-Capture the facility and eliminate <color=#0096FF>Foundation personnel</color>.\nWork together with other <color=#008F1E>Chaos Insurgents</color>.
+殺死所有人類\n阻止人類逃離設施\n與其他<color=#F00>SCP</color>合作<color=#FFFF00>\n在被注視時，按住並鬆開瞄準鍵進行瞬移\n 瞬移至人類附近即可擊殺他們\n在未被注視時，對準附近的人類點擊滑鼠左鍵即可擊殺他們</color>
+設法逃出設施\n與 <color=#008F1E>混沌分裂者</color> 合作\n躲開其他陣營
+你很快就會重生
+殺死所有人類\n阻止人類逃離設施\n與其他<color=#F00>SCP</color>合作<color=#FFFF00>\n你可以直接穿過門\n點擊滑鼠左鍵進行攻擊，並將人類拽入至你的口袋次元中\按下Shift鍵能潛入地下，並恢復你的休謨護盾</color>
+從敵對勢力手中奪回設施\n與<color=#5B6370>設施守衛</color>和其他<color=#0096FF>MTF特工</color>一同合作
+殺死所有人類\n阻止人類逃離設施\n與其他<color=#F00>SCP</color>合作<color=#FFFF00>\n點擊滑鼠左鍵攻擊人類，命中兩次即可造成擊殺\n與新鮮的屍體互動可將其復甦為盟友</color>
+逃離這座設施\n與<color=#5B6370>設施守衛</color>和<color=#0096FF>MTF特工</color>一同合作\n盡量避開其他陣營
+殺死所有人類\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
+佔領這座設施並消滅<color=#0096FF>基金會人員</color>\n與其他<color=#008F1E>混沌分裂者</color>一同合作
+殺死所有人類\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
+殺死所有人類\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作<color=#FFFF00>\n左鍵滑鼠左鍵攻擊人類</color>
+從敵對勢力手中奪回設施\n與<color=#5B6370>設施守衛</color>和其他<color=#0096FF>MTF特工</color>一同合作
+從敵對勢力手中奪回設施\n與<color=#5B6370>設施守衛</color>和其他<color=#0096FF>MTF特工</color>一同合作
+從敵對勢力手中奪回設施\n與<color=#5B6370>設施守衛</color>和其他<color=#0096FF>MTF特工</color>一同合作
+跟隨任務目標以完成關卡
+從敵對勢力手中奪回設施\n與<color=#5B6370>設施守衛</color>和其他<color=#0096FF>MTF特工</color>一同合作
+殺死所有人類\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
+殺死所有人類\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
+佔領這座設施並消滅<color=#0096FF>基金會人員</color>\n與其他<color=#008F1E>混沌分裂者</color>一同合作
+佔領這座設施並消滅<color=#0096FF>基金會人員</color>\n與其他<color=#008F1E>混沌分裂者</color>一同合作
+佔領這座設施並消滅<color=#0096FF>基金會人員</color>\n與其他<color=#008F1E>混沌分裂者</color>一同合作
 -
 -
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+殺死所有人類\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
 -
-Kill everything.\nTrack down targets.\nCooperate with your <color=#FF59CA>flock.</color>
-Kill everything.\nTrack down targets.\nCooperate with your <color=#FF59CA>flock.</color>
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
-Take back the facility from hostile forces.\nWork together with <color=#5B6370>Facility Guards</color> and other <color=#0096FF>MTF operatives</color>.
-Capture the facility and eliminate <color=#0096FF>Foundation personnel</color>.\nWork together with other <color=#008F1E>Chaos Insurgents</color>.
-Kill all humans.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+消滅所有敵人\n追蹤目標\n與你的<color=#FF59CA>族群</color>合作
+消滅所有敵人\n追蹤目標\n與你的<color=#FF59CA>族群</color>合作
+殺死所有人類\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
+從敵對勢力手中奪回設施\n與<color=#5B6370>設施守衛</color>和其他<color=#0096FF>MTF特工</color>一同合作
+佔領這座設施並消滅<color=#0096FF>基金會人員</color>\n與其他<color=#008F1E>混沌分裂者</color>一同合作
+殺死所有人類\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
