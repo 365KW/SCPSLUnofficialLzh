@@ -5,5 +5,5 @@
 <color=%achieverColor%>%achieverName%</color> 弒 <color=%victimColor%>%victimName%</color>
 <color=%achieverColor%>%achieverName%</color> 實傷 <color=%victimColor%>%victimName%</color>
 <color=%achieverColor%>%achieverName%</color> 乃離走設施
-<color=%achieverColor%>%achieverName%</color> 乃啟 <b>發電器</b> 有功
+<color=%achieverColor%>%achieverName%</color> 乃啓 <b>發電器</b> 有功
 <color=%achieverColor%>%achieverName%</color> 拾 <color=red>%itemName%</color>

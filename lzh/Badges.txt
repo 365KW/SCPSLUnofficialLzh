@@ -18,7 +18,7 @@
 北木社員 機理編工
 北木社員 機理監工
 北木社員 製戲者
-SCP:SL 社群賽事勝者
+SCP:SL 社羣賽事勝者
 北木社員 總工匠師
 北木社員 戲謀者
 北木社員 戲謀編員
@@ -88,9 +88,9 @@ SCP:SL 社財庫僦者
 北木社員 接口置設處責任員
 北木社員 接口置設處維護者
 SCP:SL 援勘誤者
-SCP:SL社群賽事勝者(Clip Contest 2023)
-SCP:SL社群賽事參與者(FanExpo Chicago 2025)
-SCP:SL社群賽事參與者(HDCC 2025)
+SCP:SL社羣賽事勝者(Clip Contest 2023)
+SCP:SL社羣賽事參與者(FanExpo Chicago 2025)
+SCP:SL社羣賽事參與者(HDCC 2025)
 SCP:SL 欽設伺服器主 – 巴西
 SCP:SL 欽設伺服器主 – 捷克斯洛伐克
 SCP:SL 欽設伺服器主 – 芬蘭
@@ -123,20 +123,20 @@ SCP:SL 欽設伺服器主 – 南斯拉夫
 北木社員 介面佈設
 北木社員 介面視效佈設
 SCP:SL 欽設伺服器主
-SCP:SL 社群賽事參與者(PAX AUS 2024)
-SCP:SL 社群賽事謀者
-SCP:SL 社群賽事勝者(Fanart Contest 2018)
-SCP:SL 社群賽事勝者(Foxt PVP Tournament)
-SCP:SL 社群賽事勝者(TinyyTonyy Parkour)
-SCP:SL 社群賽事勝者(Sticker Competition)
-SCP:SL 社群賽事勝者(Infernal Battles 2023)
-SCP:SL 社群賽事勝者(Maze Madness 2023)
-SCP:SL 社群賽事勝者(Jailbird Brawl 2023)
-SCP:SL 社群賽事勝者(scpWyatt CTF Tournament)
-SCP:SL 社群賽事勝者(Art Contest 2024)
+SCP:SL 社羣賽事參與者(PAX AUS 2024)
+SCP:SL 社羣賽事謀者
+SCP:SL 社羣賽事勝者(Fanart Contest 2018)
+SCP:SL 社羣賽事勝者(Foxt PVP Tournament)
+SCP:SL 社羣賽事勝者(TinyyTonyy Parkour)
+SCP:SL 社羣賽事勝者(Sticker Competition)
+SCP:SL 社羣賽事勝者(Infernal Battles 2023)
+SCP:SL 社羣賽事勝者(Maze Madness 2023)
+SCP:SL 社羣賽事勝者(Jailbird Brawl 2023)
+SCP:SL 社羣賽事勝者(scpWyatt CTF Tournament)
+SCP:SL 社羣賽事勝者(Art Contest 2024)
 SCP:SL 社財庫僦者(Pro Troller)
 SCP:SL 社僦員
-SCP:SL 社群賽事參與者(TwitchCon 2019)
+SCP:SL 社羣賽事參與者(TwitchCon 2019)
 北木社員 器械人工匠
 北木社員 器械人理司經理
 北木社員 文編員
