@@ -2,5 +2,5 @@
 持<color=yellow>[type]彈藥</color>已達限之<color=yellow>[max_type_count]發</color>
 <b>已至</b><color=yellow>[type]彈藥</color>持限之<color=yellow>[max_type_count]發</color>
 君已持該物品至之限<color=yellow>[max_type_count]</color>「<color=yellow>[type]</color>」
-<b>已至</b><color=yellow>[type]</color>之持限<color=yellow>[type]</color>[max_type_count]</color>
+<b>已至</b><color=yellow>[type]</color>之持限<color=yellow>[max_type_count]</color>
 君行囊之極<color=yellow>[max_item_count]</color>已至限

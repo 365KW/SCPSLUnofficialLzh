@@ -1,4 +1,4 @@
-[class] - <b>[user]</b之屍首此處！ \n\n死因：[cause]
+[class] - <b>[user]</b>之屍首此處！ \n\n死因：[cause]
 復收容矣。
 亡於阿爾法核彈頭爆。
 無損而猝死。
