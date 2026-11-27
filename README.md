@@ -1,6 +1,6 @@
 # SCP: SL 文言譯本（未具）
 
-社羣制文言譯本，未具亦未止。
+試作之譯，未具亦未止。
 
 ## 載
 
@@ -33,6 +33,8 @@ git clone https://github.com/365KW/SCPSLUnofficialLZH.git
 ```
 【修】訂Items.txt謬
 ```
+
+望諸君戮力。
 
 ## 許可
 
