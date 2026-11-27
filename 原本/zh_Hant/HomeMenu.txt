@@ -1,0 +1,5 @@
+<size=65><b>開始遊戲</b></size>
+<size=65><b>新聞動態</b></size>
+<size=65><b>操縱指南</b></size>
+<size=65><b>遊戲設定</b></size>
+<size=65><b>退出遊戲</b></size>

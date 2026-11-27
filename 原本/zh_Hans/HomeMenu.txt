@@ -1,0 +1,5 @@
+<size=65><b>开始游戏</b></size>
+<size=65><b>新闻动态</b></size>
+<size=65><b>操作指南</b></size>
+<size=65><b>游戏设置</b></size>
+<size=65><b>退出游戏</b></size>
