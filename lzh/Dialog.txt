@@ -1,0 +1,23 @@
+以 [CameraInputKey] 之行視四方
+移以 [MoveForward][MoveLeft][MoveBackward][MoveRight]
+於移時，走以 [SprintKey]
+以 [InteractKey] 鍵交互
+以 [ProximityDeviceKey] 同戲者四近談論
+以 [TeamDeviceKey] 同友談論
+擊 [RoleInfoScreenKey] 以查君角色之訊
+擊 [ATTACKKEY] 攻\n以 [ReviveKey] 復生屍首
+擊 [ATTACKKEY] 攻\n以 [ConsumeKey] 食人之屍首
+以 [079InteractKey] 與設施交互\n擊 [079PingKey] 註之要點\n擊 [079MapKey] 喚設施圖
+方用術，存備電能將消，後自復
+方君協友弒敵，君可得經驗。足經驗而昇訪問之階，並曾術
+於順態，以 [StopCryKey] 倚門壁而抑淚聲\n君面得視，押 [RageKey] 以入怒態
+擊 [AttackKey] 掠敵，行之袋宙
+君穿行於門戶，弗矩於室
+君術從精力，屬耐力，復於移與攻
+君疾之至，然弗能逸視界，止掠眼之間移\n時未窺，擊 [AttackKey] 攻\n於視內，押放 [TeleportKey] 以眨眼，觸君者斃
+君視嘗限，時人近而聲，君方見其人\n擊 [AttackKey] 而攻\n以 [MimicryMenuKey] 而以聲詐敵
+忘氣忘君，使視暗，異常「九三九」則大應視中，方擊而醒。請慎於視之變！
+逸之袋宙，君魂從傷，異常「一零六」者更易察君
+異常「一七三」弗能移於視，止掠眼之間。請慎於君去之之距及視！
+異常「七九」可作特斯拉電網，方攝像機發靛光，請慎行。
+異常「四九」之攻將使心臟驟停，須腎上腺素或異常「五百」等療愈之物，或斃。時此間，次擊君即斃
